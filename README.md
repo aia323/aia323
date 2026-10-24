@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aidan 👋
 
-<!--
-**aia323/aia323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at Lehigh University. I build data and machine learning tools for chemistry.
 
-Here are some ideas to get you started:
+### 🔬 Current research
+**Compound identification from mass spectrometry data**: a Python pipeline that
+matches LC-MS/MS spectra against a library of 700,000+ reference spectra, with
+calibrated confidence scores and a machine learning (LightGBM) re-ranker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+- **[Bayesian Optimization for Experiments](https://github.com/aia323/bayesian-optimization-app)**:
+  web apps that teach Bayesian optimization and suggest the next lab experiment.
+  Built the teaching module's web page and tested the model on real experimental data.
+- **[Reaction Kinetics: Downloadable App](https://github.com/aia323/reaction-kinetics-downloadable)**:
+  packaged an interactive reaction kinetics app as a standalone Windows program
+  with automated builds.
+
+### 🧰 Tools
+Python · pandas · scikit-learn · LightGBM · SciPy · Bokeh · HTML/CSS · Git · Google Colab
+
+📫 aia323@lehigh.edu · [LinkedIn](www.linkedin.com/in/aidan-arnold-220138293)
