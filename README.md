@@ -18,4 +18,4 @@ calibrated confidence scores and a machine learning (LightGBM) re-ranker.
 ### 🧰 Tools
 Python · pandas · scikit-learn · LightGBM · SciPy · Bokeh · HTML/CSS · Git · Google Colab
 
-📫 aia323@lehigh.edu · [LinkedIn](www.linkedin.com/in/aidan-arnold-220138293)
+📫 aia323@lehigh.edu · [LinkedIn](https://www.linkedin.com/in/aidan-arnold-220138293/)
