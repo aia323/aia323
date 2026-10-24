@@ -1,11 +1,12 @@
 # Hi, I'm Aidan 👋
 
-Student at Lehigh University. I build data and machine learning tools for chemistry.
+Graduate student at Lehigh University. I build data and machine learning tools for chemistry.
 
 ### 🔬 Current research
-**Compound identification from mass spectrometry data**: a Python pipeline that
-matches LC-MS/MS spectra against a library of 700,000+ reference spectra, with
-calibrated confidence scores and a machine learning (LightGBM) re-ranker.
+**[Compound identification from mass spectrometry data](https://github.com/aia323/compound-identification)**:
+a Python pipeline that matches LC-MS/MS spectra against a library of 700,000+
+reference spectra, with calibrated confidence scores and a machine learning
+(LightGBM) re-ranker.
 
 ### 🛠️ Projects
 - **[Bayesian Optimization for Experiments](https://github.com/aia323/bayesian-optimization-app)**:
